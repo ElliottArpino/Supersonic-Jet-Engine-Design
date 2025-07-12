@@ -13,7 +13,7 @@
 - Comparison with the J58 engine at sea-level and cruise conditions
 
 **Repository Contents**
-- report.pdf — Full project report with equations, figures, and conclusions
+- [View Full Project Report (PDF)](./report.pdf) — Full project report with equations, figures, and conclusions
 - inlet_design.m — MATLAB code for multi-shock inlet optimization
 - cycle_analysis.m — MATLAB code for non-ideal turbojet parametric cycle modeling
 
