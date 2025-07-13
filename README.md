@@ -14,8 +14,8 @@
 
 **Repository Contents**
 - [View Full Project Report (PDF)](./report.pdf) — Full project report with equations, figures, and conclusions
-- inlet_design.m — MATLAB code for multi-shock inlet optimization
-- cycle_analysis.m — MATLAB code for non-ideal turbojet parametric cycle modeling
+- [View Inlet Design Code (.m)](./inlet_design.m) — MATLAB code for multi-shock inlet optimization
+- [View Parametric Cycle Analysis Code (.m)](./parametric_cycle_analysis.m) — MATLAB code for non-ideal turbojet parametric cycle modeling
 
 **Results Highlights**
 
