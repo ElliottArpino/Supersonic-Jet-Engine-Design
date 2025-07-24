@@ -9,8 +9,7 @@ gamma = 1.4;
 %% Program Inputs
 delta = 0.1;          % Flow turning angle increment in degrees
 x = 25;               % Maximum theta1 in degrees
-tol = 0.1;            % Tolerance for equality check (if nee
-ded later)
+tol = 0.1;            % Tolerance for equality check (if needed later)
 % Preallocate a results matrix
 % Columns: [theta1, beta1, Mn1b, Mn1a, M2, Po_21, Mn2b, beta2, theta2, Mn2a, M3, Po_32, Mn3b, beta3, theta3, Mn3a, M4, Po_43, M5, Po_54, pi_d]
 results = nan(length(0:delta:x), 21);
