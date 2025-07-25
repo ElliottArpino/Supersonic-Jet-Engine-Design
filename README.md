@@ -11,7 +11,7 @@ This repository presents the conceptual design and analysis of a fictional super
 - **Supersonic Inlet Design**: Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle.  
   ![inlet_ref](inlet_design_outputs/inlet_ref.png)
 - **Parametric Cycle Analysis**: MATLAB scripts explore performance across Mach 0.85, 2.0, and 3.2.  
-  ![engine_ref](parametric_cycle_analysis_outputs/engine_ref.png)
+  ![engine_ref](parametric_cycle_analysis_outputs/eng_ref.png)
 - **Performance Trade‑offs**:  
   - Specific thrust  
   - Thrust specific fuel consumption (TSFC)  
