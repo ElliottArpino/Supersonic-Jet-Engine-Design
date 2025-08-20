@@ -28,7 +28,7 @@ This repository presents the conceptual design and analysis of a fictional super
 ## Repository Structure
 
 - [Report.pdf](./Report.pdf) — Full project report with detailed equations, figures, and conclusions.
-- [presentation.pptx](./presentation.pptx) - Project Powerpoint providing a brief overview.
+- [presentation.pptx](./presentation.pptx) - Project Powerpoint providing a brief overview with key info and important visuals.
 - [inlet_design.m](./inlet_design.m) — MATLAB code for multi‑shock inlet optimization.  
 - [parametric_cycle_analysis.m](./parametric_cycle_analysis.m) — MATLAB code for non‑ideal turbojet parametric cycle modeling.  
 - [inlet_design_outputs/](./inlet_design_outputs/) - Folder containing all PNG outputs from inlet_design.m
