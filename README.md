@@ -46,12 +46,18 @@ Below are the key plots from our cycle analysis at Mach 2.0:
 ![Efficiency at Mach 2.0, Tt4 = 1600 K](parametric_cycle_analysis_outputs/eff_m2_1600k.png)  
 *Overall efficiency curve at Mach 2.0 with a maximum combustion temperature of 1600 K.*
 
+If the turbojet engine were to be optimized for Mach 2.0, it is clear to see from the figures above that the compressor pressure ratio needs to be 
+around 26. This is the ratio of the pressure of the airflow at the outlet of the compressor, to the pressure of the airflow at the intlet of the compressor.
+Beyond a ratio of 26, the TSFC and Specific Thrust performance metrics become very unfavourable. The TSFC exponentially increases, and the Specific Thrust
+plummets. In the report, the TSFC and Specific Thrust trends are seen and explained across the different speeds.
+
 ---
 
 ## Results Highlights
 
+The final inlet and turbojet engine design was optimized for a cruise at Mach 3.2. At this Mach, the inlet and engine performance achieved:
 - **TSFC**: 0.03 at sea‑level (improvement over typical turbojet values).  
-- **Thrust‑to‑Mass Flow**: Exceeds that of the J58 at cruise conditions.  
+- **Thrust‑to‑Mass Flow (Specific Thrust)**: Exceeds that of the J58 at cruise conditions.  
 - **Optimal Cruise Design**: Achieves best performance at Mach 2.0 with a 9.5:1 compressor pressure ratio and turbine inlet temperature of 1700 K.
 
 ---
