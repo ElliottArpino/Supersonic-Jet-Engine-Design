@@ -11,12 +11,12 @@ This repository presents the conceptual design and analysis of a fictional super
 - **Supersonic Inlet Design**  
   Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle.
   
-  ![inlet_ref](inlet_design_outputs/Supersonic_Inlet_rendition_V2.png)
+  ![inlet_reference](inlet_design_outputs/Supersonic_Inlet_rendition_V2.png)
 
 - **Parametric Cycle Analysis**  
   MATLAB scripts explore the engine performance across Mach 0.85, 2.0, and 3.2 and compressor pressure ratios from 1:1 to 100:1. The following figure is a turbojet engine reference display, breaking down each stage the     airflow experiences. This was used for the calculations needed to find Thrust Specific Fuel Consumption, Specific Thrust, and the efficiency.
   
-  ![engine_ref](parametric_cycle_analysis_outputs/eng_ref.png)
+  ![engine_reference](parametric_cycle_analysis_outputs/eng_ref.png)
 
 - **Performance Trade‑offs**  
   - Specific thrust  
@@ -58,7 +58,7 @@ plummets. In the report, the TSFC and Specific Thrust trends are seen and explai
 The final inlet and turbojet engine design was optimized for a cruise at Mach 3.2. At this Mach, the inlet and engine performance achieved:
 - **TSFC**: 0.03 at sea‑level (improvement over typical turbojet values).  
 - **Thrust‑to‑Mass Flow (Specific Thrust)**: Exceeds that of the J58 at cruise conditions.  
-- **Optimal Cruise Design**: Achieves best performance at Mach 2.0 with a 9.5:1 compressor pressure ratio and turbine inlet temperature of 1700 K.
+- **Optimal Cruise Design**: Achieves best performance at Mach 3.2 with a 9.5:1 compressor pressure ratio and turbine inlet temperature of 1700 K.
 
 ---
 
