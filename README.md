@@ -11,9 +11,9 @@ This repository presents the conceptual design and analysis of a fictional super
 - **Supersonic Inlet Design**  
   Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle.
 
-  ![inlet_output_reference](inlet_design_output.png)  
+  ![inlet_output_reference](inlet_design_outputs/inlet_design_output.png)  
 
-  ![inlet_reference](inlet_design_outputs/Supersonic_Inlet_rendition_V2.png)
+  ![inlet_reference](inlet_design_outputs/Supersonic_Inlet_rendition_V2.png)  
 
 
 - **Parametric Cycle Analysis**  
