@@ -13,7 +13,7 @@ This repository presents the conceptual design and analysis of a fictional super
 
   ![inlet_output_reference](inlet_design_outputs/inlet_design_output.png)  
 
-  ![inlet_reference](inlet_design_outputs/Supersonic_Inlet_rendition_V2.png)  
+  ![inlet_reference](inlet_design_outputs/supersonic_inlet_rendition_reference.png)  
 
 
 - **Parametric Cycle Analysis**  
