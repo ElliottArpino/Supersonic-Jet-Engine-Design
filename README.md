@@ -21,7 +21,7 @@ This repository presents the conceptual design and analysis of a fictional super
   *Final Inlet Design Rendition for Mach 3.2 Conditions*   
 
 - **Parametric Cycle Analysis**  
-  MATLAB scripts explore the engine performance across Mach 0.85, 2.0, and 3.2 and compressor pressure ratios from 1:1 to 100:1. The following figure is a turbojet engine reference display, breaking down each stage the     airflow experiences. This was used for the calculations needed to find Thrust Specific Fuel Consumption, Specific Thrust, and the efficiency.
+MATLAB was utilized to analyze engine performance across Mach 0.85, 2.0, and 3.2 and compressor pressure ratios from 1:1 to 100:1. The following figure is a turbojet engine reference display, breaking down each stage the     airflow experiences. This was used for the calculations needed to find Thrust Specific Fuel Consumption, Specific Thrust, and the efficiency.
   
   ![engine_reference](parametric_cycle_analysis_outputs/eng_ref.png)
 
