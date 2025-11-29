@@ -12,9 +12,13 @@ This repository presents the conceptual design and analysis of a fictional super
   Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle.
 
   ![inlet_output_reference](inlet_design_outputs/inlet_design_output.png)  
+ *Mach of airflow, Shock angle, Ramp angle, and Recovery Pressure Ratio of each region optimized for Mach 3.2 flow*
 
-  ![inlet_reference](inlet_design_outputs/supersonic_inlet_rendition_reference.png)  
+  ![inlet_output_reference](inlet_design_outputs/inlet_ref.png)  
+  *Inlet Design Reference Diagram*
 
+  ![inlet_rendition](inlet_design_outputs/inlet_views/inlet_sidesection_view.jpg)  
+  *Final Inlet Design Rendition for Mach 3.2 Conditions*
 
 - **Parametric Cycle Analysis**  
   MATLAB scripts explore the engine performance across Mach 0.85, 2.0, and 3.2 and compressor pressure ratios from 1:1 to 100:1. The following figure is a turbojet engine reference display, breaking down each stage the     airflow experiences. This was used for the calculations needed to find Thrust Specific Fuel Consumption, Specific Thrust, and the efficiency.
@@ -32,9 +36,10 @@ This repository presents the conceptual design and analysis of a fictional super
 
 - [Report.pdf](./Report.pdf) — Full project report with detailed equations, figures, and conclusions.
 - [presentation.pptx](./presentation.pptx) - Project Powerpoint providing a brief overview with key info and important visuals.
-- [inlet_design.m](./inlet_design.m) — MATLAB code for multi‑shock inlet optimization.  
+- [inlet_design.m](./inlet_design.m) — MATLAB code for multi‑shock inlet optimization.
 - [parametric_cycle_analysis.m](./parametric_cycle_analysis.m) — MATLAB code for non‑ideal turbojet parametric cycle modeling.  
 - [inlet_design_outputs/](./inlet_design_outputs/) - Folder containing all PNG outputs from inlet_design.m
+- [inlet_views/](./inlet_design_outputs/inlet_views/) — Folder containing JPG's of different views of CATIA rendition
 - [parametric_cycle_analysis_outputs/](./parametric_cycle_analysis_outputs/) - Folder containing all PNG outputs from parametric_cycle_analysis.m
 
 ---
