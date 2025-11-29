@@ -12,13 +12,13 @@ This repository presents the conceptual design and analysis of a fictional super
   Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle.
 
   ![inlet_output_reference](inlet_design_outputs/inlet_design_output.png)  
- *Mach of airflow, Shock angle, Ramp angle, and Recovery Pressure Ratio of each region optimized for Mach 3.2 flow*
+ *Mach of airflow, Shock angle, Ramp angle, and Recovery Pressure Ratio of each region optimized for Mach 3.2 flow*  
 
   ![inlet_output_reference](inlet_design_outputs/inlet_ref.png)  
   *Inlet Design Reference Diagram*
 
   ![inlet_rendition](inlet_design_outputs/inlet_views/inlet_sidesection_view.jpg)  
-  *Final Inlet Design Rendition for Mach 3.2 Conditions*
+  *Final Inlet Design Rendition for Mach 3.2 Conditions*  
 
 - **Parametric Cycle Analysis**  
   MATLAB scripts explore the engine performance across Mach 0.85, 2.0, and 3.2 and compressor pressure ratios from 1:1 to 100:1. The following figure is a turbojet engine reference display, breaking down each stage the     airflow experiences. This was used for the calculations needed to find Thrust Specific Fuel Consumption, Specific Thrust, and the efficiency.
