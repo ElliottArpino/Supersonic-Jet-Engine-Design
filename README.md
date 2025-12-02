@@ -9,16 +9,16 @@ This repository presents the conceptual design and analysis of a fictional super
 ## Key Features
 
 - **Supersonic Inlet Design**  
-  Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle. Supersonic airflow is compressed and slowed       down to subsonic speeds usable for the inlet of the compressor. This is accomplished through a supersonic ramp, that captures the resultant      shockwaves formed due to the rapid increase in pressure. The Oswatitsch princple was used to optimize the total pressure recovery - meaning the  total loss of energy due to incompressibility and entropy loss affects are minimized.
+  Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle. Supersonic airflow is compressed and slowed       down to subsonic speeds usable for the inlet of the compressor. This is accomplished through a supersonic ramp, that captures the resultant      shockwaves formed due to the rapid increase in pressure. The Oswatitsch princple was used to optimize the total pressure recovery - meaning the  total loss of energy due to incompressibility and entropy loss affects are minimized.<br>
 
   ![inlet_output_reference](inlet_design_outputs/inlet_ref.png)  
-  *Inlet Design Reference Diagram*
+  *Inlet Design Reference Diagram*<br>
 
   ![inlet_output_reference](inlet_design_outputs/inlet_design_output.png)  
-  *Mach of airflow, Shock angle, Ramp angle, and Recovery Pressure Ratio of each region optimized for Mach 3.2 flow*  
+  *Mach of airflow, Shock angle, Ramp angle, and Recovery Pressure Ratio of each region optimized for Mach 3.2 flow*<br>  
 
   ![inlet_rendition](inlet_design_outputs/inlet_views/inlet_sidesection_view.jpg)  
-  *Final Inlet Design Rendition for Mach 3.2 Conditions*   
+  *Final Inlet Design Rendition for Mach 3.2 Conditions*<br>   
 
 - **Parametric Cycle Analysis**  
 MATLAB was utilized to analyze engine performance across Mach 0.85, 2.0, and 3.2 and compressor pressure ratios from 1:1 to 100:1. The following figure is a turbojet engine reference display, breaking down each stage the     airflow experiences. This was used for the calculations needed to find Thrust Specific Fuel Consumption, Specific Thrust, and the efficiency.
