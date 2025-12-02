@@ -9,7 +9,7 @@ This repository presents the conceptual design and analysis of a fictional super
 ## Key Features
 
 - **Supersonic Inlet Design**  
-  Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle.
+  Multi‑shock inlet (3 oblique shocks + 1 normal shock) optimized via the Oswatitsch principle. Supersonic airflow is compressed and slowed       down to subsonic speeds usable for the inlet of the compressor. This is accomplished through a supersonic ramp, that captures the resultant      shockwaves formed due to the rapid increase in pressure. The Oswatitsch princple was used to optimize the total pressure recovery - meaning the  total loss of energy due to incompressibility and entropy loss affects are minimized.
 
   ![inlet_output_reference](inlet_design_outputs/inlet_ref.png)  
   *Inlet Design Reference Diagram*
